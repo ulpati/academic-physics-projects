@@ -1,0 +1,35 @@
+# Compiled executables
+prog*
+*.out
+*.exe
+
+# Object files
+*.o
+*.obj
+
+# ROOT output files
+*.root
+*.png
+*.pdf
+*.eps
+
+# Temporary files
+*.tmp
+*.swp
+*~
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# User-specific files
+user.txt
+output.txt
+
+# Keep the figures referenced by the lesson READMEs
+!**/images/*.png

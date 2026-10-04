@@ -1,0 +1,36 @@
+# Compiled executables
+*.out
+*.exe
+main
+test
+esercizio*[0-9]
+exercise*[0-9]
+
+# Object files
+*.o
+*.obj
+
+# ROOT output files
+*.root
+*.png
+*.pdf
+*.eps
+*.C
+
+# Temporary files
+*.tmp
+*.swp
+*~
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Data output files
+output.txt
+results.dat
